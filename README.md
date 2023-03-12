@@ -1,2 +1,3 @@
 # SettingExercise
-link ytb : 
+link ytb : https://youtu.be/VivB6ZArjus
+ 
